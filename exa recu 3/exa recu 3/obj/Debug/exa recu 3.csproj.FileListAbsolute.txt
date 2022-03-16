@@ -1,0 +1,12 @@
+C:\Users\dam1\OneDrive\Hermann 1DAM\OneDrive\FP\CSHARP entornos IDE\Examenes\3 recu\exa recu 3\exa recu 3\obj\Debug\exa recu 3.csproj.AssemblyReference.cache
+C:\Users\dam1\OneDrive\Hermann 1DAM\OneDrive\FP\CSHARP entornos IDE\Examenes\3 recu\exa recu 3\exa recu 3\obj\Debug\exa_recu_3.Form1.resources
+C:\Users\dam1\OneDrive\Hermann 1DAM\OneDrive\FP\CSHARP entornos IDE\Examenes\3 recu\exa recu 3\exa recu 3\obj\Debug\exa_recu_3.Form2.resources
+C:\Users\dam1\OneDrive\Hermann 1DAM\OneDrive\FP\CSHARP entornos IDE\Examenes\3 recu\exa recu 3\exa recu 3\obj\Debug\exa_recu_3.Form3.resources
+C:\Users\dam1\OneDrive\Hermann 1DAM\OneDrive\FP\CSHARP entornos IDE\Examenes\3 recu\exa recu 3\exa recu 3\obj\Debug\exa_recu_3.Properties.Resources.resources
+C:\Users\dam1\OneDrive\Hermann 1DAM\OneDrive\FP\CSHARP entornos IDE\Examenes\3 recu\exa recu 3\exa recu 3\obj\Debug\exa recu 3.csproj.GenerateResource.cache
+C:\Users\dam1\OneDrive\Hermann 1DAM\OneDrive\FP\CSHARP entornos IDE\Examenes\3 recu\exa recu 3\exa recu 3\obj\Debug\exa recu 3.csproj.CoreCompileInputs.cache
+C:\Users\dam1\OneDrive\Hermann 1DAM\OneDrive\FP\CSHARP entornos IDE\Examenes\3 recu\exa recu 3\exa recu 3\bin\Debug\exa recu 3.exe.config
+C:\Users\dam1\OneDrive\Hermann 1DAM\OneDrive\FP\CSHARP entornos IDE\Examenes\3 recu\exa recu 3\exa recu 3\bin\Debug\exa recu 3.exe
+C:\Users\dam1\OneDrive\Hermann 1DAM\OneDrive\FP\CSHARP entornos IDE\Examenes\3 recu\exa recu 3\exa recu 3\bin\Debug\exa recu 3.pdb
+C:\Users\dam1\OneDrive\Hermann 1DAM\OneDrive\FP\CSHARP entornos IDE\Examenes\3 recu\exa recu 3\exa recu 3\obj\Debug\exa recu 3.exe
+C:\Users\dam1\OneDrive\Hermann 1DAM\OneDrive\FP\CSHARP entornos IDE\Examenes\3 recu\exa recu 3\exa recu 3\obj\Debug\exa recu 3.pdb
