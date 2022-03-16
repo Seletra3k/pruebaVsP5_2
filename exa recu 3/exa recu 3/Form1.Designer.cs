@@ -43,10 +43,9 @@ namespace exa_recu_3
             this.usu.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.usu.Location = new System.Drawing.Point(159, 64);
-            this.usu.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.usu.Location = new System.Drawing.Point(119, 52);
             this.usu.Name = "usu";
-            this.usu.Size = new System.Drawing.Size(132, 22);
+            this.usu.Size = new System.Drawing.Size(100, 20);
             this.usu.TabIndex = 0;
             // 
             // contra
@@ -54,11 +53,10 @@ namespace exa_recu_3
             this.contra.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.contra.Location = new System.Drawing.Point(159, 132);
-            this.contra.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.contra.Location = new System.Drawing.Point(119, 107);
             this.contra.Name = "contra";
             this.contra.PasswordChar = '*';
-            this.contra.Size = new System.Drawing.Size(132, 22);
+            this.contra.Size = new System.Drawing.Size(100, 20);
             this.contra.TabIndex = 1;
             // 
             // label1
@@ -67,10 +65,9 @@ namespace exa_recu_3
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(55, 71);
-            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label1.Location = new System.Drawing.Point(41, 58);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(55, 17);
+            this.label1.Size = new System.Drawing.Size(41, 13);
             this.label1.TabIndex = 2;
             this.label1.Text = "usuario";
             // 
@@ -80,10 +77,9 @@ namespace exa_recu_3
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(55, 132);
-            this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label2.Location = new System.Drawing.Point(41, 107);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(79, 17);
+            this.label2.Size = new System.Drawing.Size(60, 13);
             this.label2.TabIndex = 3;
             this.label2.Text = "contraseña";
             // 
@@ -92,13 +88,13 @@ namespace exa_recu_3
             this.compro.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.compro.Location = new System.Drawing.Point(159, 182);
-            this.compro.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.compro.BackColor = System.Drawing.Color.Red;
+            this.compro.Location = new System.Drawing.Point(119, 148);
             this.compro.Name = "compro";
-            this.compro.Size = new System.Drawing.Size(133, 34);
+            this.compro.Size = new System.Drawing.Size(100, 28);
             this.compro.TabIndex = 4;
             this.compro.Text = "button1";
-            this.compro.UseVisualStyleBackColor = true;
+            this.compro.UseVisualStyleBackColor = false;
             this.compro.Click += new System.EventHandler(this.compro_Click);
             // 
             // panel1
@@ -112,19 +108,17 @@ namespace exa_recu_3
             this.panel1.Controls.Add(this.label2);
             this.panel1.Controls.Add(this.contra);
             this.panel1.Controls.Add(this.label1);
-            this.panel1.Location = new System.Drawing.Point(16, 15);
-            this.panel1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panel1.Location = new System.Drawing.Point(12, 12);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(1035, 524);
+            this.panel1.Size = new System.Drawing.Size(776, 426);
             this.panel1.TabIndex = 5;
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1067, 554);
+            this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.panel1);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "Form1";
             this.Text = "Form1";
             this.panel1.ResumeLayout(false);
